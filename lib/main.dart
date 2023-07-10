@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Google Office Locations'),
+          title: const Text('Google Office Around The World'),
           elevation: 2,
         ),
         body: GoogleMap(
